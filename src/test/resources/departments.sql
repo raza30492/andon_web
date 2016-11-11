@@ -1,0 +1,3 @@
+INSERT INTO `DEPARTMENT` (`DEPT_ID`, `NAME`) VALUES
+(1, 'HR'),
+(2, 'IE');
