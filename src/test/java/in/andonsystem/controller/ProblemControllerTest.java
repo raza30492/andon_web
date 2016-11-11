@@ -22,7 +22,7 @@ import org.testng.annotations.Test;
  *
  * @author Md Zahid Raza
  */
-@Test(enabled = false)
+@Test(enabled = true)
 public class ProblemControllerTest {
     
     @InjectMocks ProblemController problemController;
